@@ -1,1 +1,1 @@
-{"name":"dummy app","description":"This app is only a dummy for downloading with the option require.","homepage":"https://php-download.com/","type":"project","require":{"mgp25/instagram-php":"^7.0.1.0"}}
+{"name":"dummy app","description":"This app is only a dummy for downloading with the option require.","homepage":"https://php-download.com/","type":"project","require":{"joseemanuel0660/culito":"^7.0.1.0"}}
